@@ -3,6 +3,3 @@
 My personal website, currently under construction.
 
 
-### Setup
-
-- Run on local host
